@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Abhishek M. sharma<br><br>-<b> Full Stack Developer</b>, passionate about building scalable we applications and solving real-world problems through code.<br> 
+Hi there, I'm Abhishek M. sharma<br><br>-<b> Full Stack Developer</b>, passionate about building scalable applications and solving real-world problems through code.<br> 
 
 
 ## 🌐 Socials:
