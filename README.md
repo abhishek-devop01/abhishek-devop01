@@ -15,8 +15,6 @@ Hi there, I'm Abhishek M. sharma<br><br>-<b> Full Stack Developer</b>, passionat
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishek-devop01&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abhishek-devop01&limit=5&theme=radical&combine_all_yearly_contributions=true)
